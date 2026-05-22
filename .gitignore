@@ -1,0 +1,11 @@
+# if you ever package it
+*.vsix
+
+# node stuff if you ever add vsce
+node_modules/
+
+# mac garbage
+.DS_Store
+
+# vscode workspace settings
+.vscode/

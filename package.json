@@ -1,0 +1,25 @@
+{
+  "name": "noct-theme",
+  "displayName": "Noct Theme",
+  "description": "A cyber pastel dark theme. Pure void background, teal accents, dreamy terminal palette.",
+  "version": "0.1.0",
+  "publisher": "YOUR_PUBLISHER_ID",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["dark", "cyber", "pastel", "minimal", "terminal"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Noct",
+        "uiTheme": "vs-dark",
+        "path": "./themes/noct-color-theme.json"
+      }
+  ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexanderlin-com/noct-theme"
+  }
+}

@@ -1,0 +1,15 @@
+// ============================================================
+// NOCT THEME - personal settings snippet
+// Replace your entire workbench.colorCustomizations block
+// with this. The theme handles everything now.
+// ============================================================
+
+"workbench.colorTheme": "Noct",
+"editor.fontFamily": "'JetBrains Mono', monospace",
+"terminal.integrated.fontFamily": "'Cascadia Code', monospace",
+"terminal.integrated.fontLigatures.enabled": true,
+"editor.fontSize": 14,
+"editor.lineHeight": 1.5,
+
+// delete the entire old workbench.colorCustomizations block,
+// you no longer need it

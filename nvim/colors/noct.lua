@@ -108,7 +108,7 @@ hi("Conceal",         { fg = c.fg_ghost })
 hi("Cursor",          { fg = c.bg_solid,  bg = c.lavender })
 hi("CursorIM",        { fg = c.bg_solid,  bg = c.lavender })
 hi("CursorColumn",    { bg = c.bg_highlight })
-hi("CursorLine",      { bg = "#FFFFFF08" })
+hi("CursorLine",      { bg = "#1A1A1A" })
 hi("CursorLineNr",    { fg = c.fg_ghost,  bold = true })
 hi("LineNr",          { fg = "#2A2A3A" })
 hi("SignColumn",      { fg = c.fg_ghost,  bg = c.bg })
@@ -117,8 +117,8 @@ hi("Folded",          { fg = c.fg_ghost,  bg = c.bg_highlight, italic = true })
 
 hi("MatchParen",      { fg = c.lavender,  bold = true, underline = true })
 
-hi("Visual",          { bg = "#CDB4FF25" })
-hi("VisualNOS",       { bg = "#CDB4FF15" })
+hi("Visual",          { bg = "#2D2640" })
+hi("VisualNOS",       { bg = "#1E1A2E" })
 
 hi("Search",          { fg = c.bg_solid,  bg = c.teal })
 hi("IncSearch",       { fg = c.bg_solid,  bg = c.lavender })
@@ -135,7 +135,7 @@ hi("TabLineSel",      { fg = c.fg,        bg = c.bg,      bold = true })
 hi("TabLineFill",     { bg = c.bg_solid })
 
 hi("Pmenu",           { fg = c.fg,        bg = c.bg_solid })
-hi("PmenuSel",        { fg = c.teal,      bg = "#00000050", bold = true })
+hi("PmenuSel",        { fg = c.teal,      bg = "#1A1A1A", bold = true })
 hi("PmenuSbar",       { bg = c.bg_subtle })
 hi("PmenuThumb",      { bg = c.teal })
 
@@ -181,10 +181,10 @@ hi("DiagnosticVirtualTextHint", { fg = c.hint,   italic = true })
 -- =========================================================
 --  Git / Diff
 -- =========================================================
-hi("DiffAdd",         { fg = c.added,    bg = "#B8F0B015" })
-hi("DiffChange",      { fg = c.modified, bg = "#A0C4FF15" })
-hi("DiffDelete",      { fg = c.deleted,  bg = "#FF8FAB15" })
-hi("DiffText",        { fg = c.fg,       bg = "#A0C4FF30" })
+hi("DiffAdd",         { fg = c.added,    bg = "#0D1F0D" })
+hi("DiffChange",      { fg = c.modified, bg = "#0D1520" })
+hi("DiffDelete",      { fg = c.deleted,  bg = "#1F0D10" })
+hi("DiffText",        { fg = c.fg,       bg = "#1A2535" })
 
 hi("GitSignsAdd",     { fg = c.added })
 hi("GitSignsChange",  { fg = c.modified })

@@ -20,6 +20,9 @@ Then you just gotta do this:
 cp -r vscode/noct-theme ~/.vscode/extensions
 ```
 
+also, for Windows, you gotta remember to rename the folder `alexanderlin.noct-theme-0.1.0`
+
+
 ## for nvim
 only do this if you don't have pre-existing nvim settings
 ```

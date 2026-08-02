@@ -10,7 +10,7 @@ basically go to your settings.json for windows terminal and paste this bad boy i
     "cursorColor": "#CDB4FF",
     "selectionBackground": "#CDB4FF25",
 
-    "black": "#1A1A2E",
+    "black": "#3D3D6B",
     "red": "#FF8FAB",
     "green": "#B8F0B0",
     "yellow": "#FFD6A5",
@@ -19,7 +19,7 @@ basically go to your settings.json for windows terminal and paste this bad boy i
     "cyan": "#97EEFF",
     "white": "#E8F0FF",
 
-    "brightBlack": "#3A3A5A",
+    "brightBlack": "#7A7A9A",
     "brightRed": "#FFB3C6",
     "brightGreen": "#CCFFCC",
     "brightYellow": "#FFE5B4",

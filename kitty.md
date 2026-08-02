@@ -15,7 +15,7 @@ cursor #CDB4FF
 cursor_text_color #0A0A0A
 selection_background #CDB4FF25
 
-color0  #1A1A2E
+color0  #3D3D6B
 color1  #FF8FAB
 color2  #B8F0B0
 color3  #FFD6A5
@@ -23,7 +23,7 @@ color4  #A0C4FF
 color5  #CDB4FF
 color6  #97EEFF
 color7  #E8F0FF
-color8  #3A3A5A
+color8  #7A7A9A
 color9  #FFB3C6
 color10 #CCFFCC
 color11 #FFE5B4

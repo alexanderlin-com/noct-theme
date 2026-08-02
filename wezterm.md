@@ -14,11 +14,11 @@ local noct = {
   selection_fg = "#EEFFFF",
   selection_bg = "#CDB4FF25",
   ansi = {
-    "#1A1A2E", "#FF8FAB", "#B8F0B0", "#FFD6A5",
+    "#3D3D6B", "#FF8FAB", "#B8F0B0", "#FFD6A5",
     "#A0C4FF", "#CDB4FF", "#97EEFF", "#E8F0FF",
   },
   brights = {
-    "#3A3A5A", "#FFB3C6", "#CCFFCC", "#FFE5B4",
+    "#7A7A9A", "#FFB3C6", "#CCFFCC", "#FFE5B4",
     "#BDD7FF", "#E0CCFF", "#B8F5FF", "#FFFFFF",
   },
 }
